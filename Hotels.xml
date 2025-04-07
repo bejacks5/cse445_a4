@@ -5,7 +5,7 @@
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>11</Number>
 			<Street>E 7th St</Street>
 			<City>Tempe</City>
@@ -18,7 +18,7 @@
 	<Hotel>
 		<Name>Hilton Garden Inn</Name>
 		<Phone>602-343-0006</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>15</Number>
 			<Street>E Monroe St</Street>
 			<City>Phoenix</City>
@@ -31,7 +31,7 @@
 	<Hotel Rating ="3.4">
 		<Name>SureStay Hotel</Name>
 		<Phone>602-273-1601</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>3037</Number>
 			<Street>E Van Buren St</Street>
 			<City>Phoenix</City>
@@ -44,7 +44,7 @@
 	<Hotel>
 		<Name>DoubleTree Suites</Name>
 		<Phone>602-225-0500</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>320</Number>
 			<Street>N 44th St</Street>
 			<City>Phoenix</City>
@@ -57,7 +57,7 @@
 	<Hotel Rating ="4.0">
 		<Name>Radisson Hotel</Name>
 		<Phone>602-661-3160</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>427</Number>
 			<Street>N 44th St</Street>
 			<City>Phoenix</City>
@@ -70,7 +70,7 @@
 	<Hotel>
 		<Name>Aloft</Name>
 		<Phone>602-275-6300</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>4450</Number>
 			<Street>E Washington St</Street>
 			<City>Phoenix</City>
@@ -83,7 +83,7 @@
 	<Hotel Rating="4.6">
 		<Name>Drury Inn</Name>
 		<Phone>602-437-8400</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>3333</Number>
 			<Street>E University Dr</Street>
 			<City>Phoenix</City>
@@ -96,7 +96,7 @@
 	<Hotel>
 		<Name>Wyndham</Name>
 		<Phone>480-967-6600</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>1600</Number>
 			<Street>S 52nd St</Street>
 			<City>Tempe</City>
@@ -109,7 +109,7 @@
 	<Hotel Rating="4.1">
 		<Name>Courtyard</Name>
 		<Phone>480-966-4300</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>2621</Number>
 			<Street>S 47th St</Street>
 			<City>Phoenix</City>
@@ -122,7 +122,7 @@
 	<Hotel>
 		<Name>GreenTree Inn</Name>
 		<Phone>602-688-5730</Phone>
-		<Address NearestAirport="Sky Harbor">
+		<Address NearstAirport="Sky Harbor">
 			<Number>4234</Number>
 			<Street>S 48th St</Street>
 			<City>Phoenix</City>
